@@ -13,3 +13,4 @@
 
 ### ng commands
 1. New component - `ng generate component name` OR `ng g c name`
+2. New service - `ng generate service name` OR `ng g s name`
